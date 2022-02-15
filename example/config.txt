@@ -1,0 +1,2 @@
+Prefix plugins/ArcUndirect/example/
+Plugin ArcUndirect inputfile input.rds outputfile undirected.csv
